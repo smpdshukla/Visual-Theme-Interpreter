@@ -1,0 +1,78 @@
+{
+    "theme": {
+        "description": "Futuristic neon vibe for interactive UI",
+        "style": "modern",
+        "mood": "vibrant",
+        "typography": {
+            "font_family": "Orbitron, sans-serif",
+            "font_size": "16px",
+            "weight": "600"
+        }
+    },
+    "colors": {
+        "primary": [
+            35,
+            25,
+            13
+        ],
+        "background": [
+            250,
+            248,
+            223
+        ],
+        "palette": [
+            [
+                35,
+                25,
+                13
+            ],
+            [
+                209,
+                169,
+                64
+            ],
+            [
+                250,
+                248,
+                223
+            ],
+            [
+                90,
+                62,
+                20
+            ],
+            [
+                109,
+                101,
+                39
+            ]
+        ]
+    },
+    "components": {
+        "button": {
+            "background_color": [
+                35,
+                25,
+                13
+            ],
+            "text_color": "#FFFFFF",
+            "border_radius": "12px",
+            "hover_effect": "glow"
+        },
+        "card": {
+            "background": [
+                250,
+                248,
+                223
+            ],
+            "border": "1px solid rgba(35, 25, 13, 0.4)",
+            "box_shadow": "0px 0px 15px rgba(209, 169, 64, 0.3)"
+        },
+        "input": {
+            "background": "#1C1C2B",
+            "text_color": "#F3F3F3",
+            "border": "1px solid rgb(35, 25, 13)",
+            "placeholder_color": "#888"
+        }
+    }
+}
